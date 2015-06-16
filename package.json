@@ -16,5 +16,7 @@
     "url": "https://github.com/timcharper/atom-salt/issues"
   },
   "main": "./lib/salt",
-  "activationEvents": ["salt:docs"]
+  "activationCommands": 
+    "atom-text-editor": ["salt:docs"]
+  }
 }

@@ -1,5 +1,5 @@
 'scopeName': 'source.yaml.salt'
-'fileTypes': [ 'sls' ]
+'fileTypes': [ 'sls', 'conf' ]
 'name': 'sls-yaml'
 'patterns': [
   {
